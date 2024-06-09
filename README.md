@@ -1,7 +1,5 @@
 ### Hello World!! 👋
 
-![DanceDancingGIF](https://github.com/JMPolvillo/JMPolvillo/assets/169647920/a632b362-cc54-4b10-83c9-dc0fbb780c2b)
-
 
 A little more about me:
 
