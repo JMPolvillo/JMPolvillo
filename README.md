@@ -5,7 +5,6 @@ A little more about me:
 
 - 🌱 I’m currently learning SQL, Java, SQL and Excel.
 - 📫 How to contact me: rothkildam@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: No Fun Allowed.
 
 
